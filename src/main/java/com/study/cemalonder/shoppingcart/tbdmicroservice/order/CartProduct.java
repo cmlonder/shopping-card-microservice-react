@@ -1,6 +1,6 @@
-package com.study.cemalonder.shoppingcart.tbdmicroservice.order.model;
+package com.study.cemalonder.shoppingcart.tbdmicroservice.order;
 
-import com.study.cemalonder.shoppingcart.tbdmicroservice.catalog.model.Product;
+import com.study.cemalonder.shoppingcart.tbdmicroservice.catalog.product.Product;
 
 import lombok.Data;
 import lombok.NonNull;

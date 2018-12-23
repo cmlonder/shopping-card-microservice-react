@@ -1,4 +1,4 @@
-package com.study.cemalonder.shoppingcart.tbdmicroservice.discount.model;
+package com.study.cemalonder.shoppingcart.tbdmicroservice.discount;
 
 import lombok.Data;
 

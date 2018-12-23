@@ -1,8 +1,8 @@
-package com.study.cemalonder.shoppingcart.tbdmicroservice.order.model;
+package com.study.cemalonder.shoppingcart.tbdmicroservice.order;
 
 import java.util.List;
 
-import com.study.cemalonder.shoppingcart.tbdmicroservice.discount.model.Coupon;
+import com.study.cemalonder.shoppingcart.tbdmicroservice.discount.Coupon;
 
 import lombok.Data;
 
